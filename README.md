@@ -1,3 +1,6 @@
+
+this is a better version trust
+
 <p align="center">
   <img src="src/main/resources/assets/homovore/icon.png" alt="Homovore" width="180" />
 </p>
